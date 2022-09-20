@@ -1,8 +1,8 @@
 .vscode/
 __pycache__/
 test.db
-env/
-venv/
+env
+venv
 
 # OS generated files #
 ######################
